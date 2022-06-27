@@ -39,6 +39,7 @@
 <!-- [![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only) -->
 
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/vinícius-henrique-7a2533229/)
+&nbsp;&nbsp;[![website](./img/whatsapp.svg)](https://api.whatsapp.com/send?phone=5531994360388)
 &nbsp;&nbsp;
 
 <!-- [![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
