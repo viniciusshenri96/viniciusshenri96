@@ -122,6 +122,9 @@
 
 </details>
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/viniciusshenri96)
+
+
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
