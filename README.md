@@ -122,7 +122,7 @@
 
 </details>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/viniciusshenri96)
+<!--![Leetcode Stats](https://leetcard.jacoblin.cool/viniciusshenri96)-->
 
 
 [website]: https://codeSTACKr.com
