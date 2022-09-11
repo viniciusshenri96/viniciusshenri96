@@ -19,7 +19,6 @@
 
 - 🥅 2022 Goals: Become a Junior Front End Developer 🧒
 
-- ⚡ Fun fact: I love playing PUBG 😅
 
 <!-- - 🧑‍💼 Developer work experience: 0 -->
 
