@@ -17,7 +17,7 @@
 
 - 👯 I'm looking to help as many people as possible through programming.
 
-- 🥅 2022 Goals: Become a Junior Front End Developer 🧒
+- 🥅 Goal: Become a Junior Front End Developer 🧒
 
 
 <!-- - 🧑‍💼 Developer work experience: 0 -->
