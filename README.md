@@ -68,8 +68,8 @@
 
 <br />
 
-<!--  <p>Learning:</p>
- <img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" /> -->
+<p>Learning:</p>
+ <img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
 
 
 <br />
