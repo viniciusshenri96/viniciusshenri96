@@ -78,7 +78,7 @@ I am a Front End Developer from Brazil.
 ---
 
 <h1 align="left">🏆 <i>Projetos</i></h1>
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="400px" alt="projects image">
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="320px" alt="projects image">
 <table height="495px" align="left">
   <tr>
     <td>
