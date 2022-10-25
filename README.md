@@ -156,8 +156,8 @@ I am a Front End Developer from Brazil.
 <br>
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=viniciusshenri96&theme=tokyo-night&hide_border=true">
 <br><br>
-<img align="left" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusshenri96&langs_count=8&theme=tokyonight&hide_border=true">
+<img align="left" height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusshenri96&langs_count=8&theme=tokyonight&hide_border=true">
 <div align="right">
-<img height="180px" src="https://github-readme-stats.vercel.app/api?username=viniciusshenri96&show_icons=true&custom_title=viniciusshenri96%20Github%20Stats&theme=tokyonight&hide_border=true">
-<img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=viniciusshenri96&theme=tokyonight&hide_border=true">
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=viniciusshenri96&show_icons=true&custom_title=viniciusshenri96%20Github%20Stats&theme=tokyonight&hide_border=true">
+<img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=viniciusshenri96&theme=tokyonight&hide_border=true">
 </div>
