@@ -15,7 +15,7 @@
 
 - 👨‍💻 I'm currently learning Front-end development
 
-- 👯 I'm looking to help as many people as possible through programming.
+<!-- - 👯 I'm looking to help as many people as possible through programming. -->
 
 - 🥅 Goal: Become a Junior Front End Developer 🧒
 
