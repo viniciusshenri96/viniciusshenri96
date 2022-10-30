@@ -31,7 +31,7 @@ I'm a front end developer in constant evolution, I live in Brazil, Belo Horizont
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/javascript) - Programming language for the web browsers. 
 - [Git](https://git-scm.com/) - Track the history of my projects.
 - [Figma](https://www.figma.com/) - Design tool. I use Figma when I am working with a design file. Of course, I am not a designer.
-- [Visual Studio Code](https://code.visualstudio.com/) - Code editor. I love this tool. It has everything that I need to write code.
+- [Visual Studio Code](https://code.visualstudio.com/) - Code editor. 
 
 ## Currently studying 
 - [Sass](https://sass-lang.com/) - CSS pre-processor. 
