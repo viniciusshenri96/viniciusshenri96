@@ -1,136 +1,66 @@
-# Hi there, I'm Vinícius 👋
+# Hello welcome! feel free to read my codes 🤯
+![](./img/banner.jpg)
 
-<!-- [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube] -->
+<div align="left">
+<a href="mailto:viniciush2015@gmail.com" target="_blank" display='inline'>
+ <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail vinicius"></img>
+</a>
 
-[![Website](https://img.shields.io/website?label=frontendmentor.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.frontendmentor.io/profile/viniciusshenri96)
+<a href="https://www.linkedin.com/in/vinícius-henrique-7a2533229/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin vinicius"></img>
+</a>
+<a href="https://www.frontendmentor.io/profile/viniciusshenri96" target="_blank"><img src="https://img.shields.io/badge/Frontend Mentor-Vinicius Henrique-informational?style=for-the-badge&logo=frontendmentor" alt="Frontend Mentor" /></a> 
+</div>
 
-<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
+## A little about myself 👋
 
-<!-- [![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/codestackr.codestackr-theme?label=codeSTACKr%20VS%20Code%20Theme&logo=visualstudiocode&logoColor=ff652f&style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=codestackr.codestackr-theme) -->
-<!-- [![Become A VS Code SuperHero](https://img.shields.io/badge/-Become%20A%20VS%20Code%20SuperHero%20%E2%86%92-gray.svg?colorB=ff652f&style=for-the-badge)](https://vsCodeHero.com) -->
+I'm a front end developer in constant evolution, I live in Brazil, Belo Horizonte-MG, my skills at the moment are HTML, CSS and JavaScript, in my projects I like to focus on accessibility, performance and responsiveness.
 
-## I'm a Front End Developer in constant evolution!!
+- ❤️ I love turning layouts into codes 
 
-<!-- - 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]! -->
+- 📖 I enjoy reading articles to stay updated and other people's codes.
 
-- 👨‍💻 I'm currently learning Front-end development
+- 👨‍💻 I practice my skills on the website <a href="frontendmentor.io/challenges">Frontend Mentor</a>
 
-<!-- - 👯 I'm looking to help as many people as possible through programming. -->
+- 🚀 I want to create content to help the community 
 
-- 🥅 Goal: Become a Junior Front End Developer 🧒
+## Technical Skills & Tools
 
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/html) - The building block of the web. No website can survive without this.
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/css) - The styling language for the web.
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/javascript) - Programming language for the web browsers. 
+- [Git](https://git-scm.com/) - Track the history of my projects.
+- [Figma](https://www.figma.com/) - Design tool. I use Figma when I am working with a design file. Of course, I am not a designer.
+- [Visual Studio Code](https://code.visualstudio.com/) - Code editor. I love this tool. It has everything that I need to write code.
 
-<!-- - 🧑‍💼 Developer work experience: 0 -->
+## Currently studying 
+- [Sass](https://sass-lang.com/) - CSS pre-processor. 
 
-- ❤️ I love turning layouts into codes
+## 📘 Some of my projects
 
-### Connect with me:
+<!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+<!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
+<p align="left">
+  <a href="https://github.com/viniciusshenri96/creative-agency-single-page-site"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viniciusshenri96&repo=creative-agency-single-page-site&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="creative-agency-single-page-site"></a>
+  <a href="https://github.com/viniciusshenri96/art-gallery-website"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viniciusshenri96&repo=art-gallery-website&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="art-gallery-website"></a>
+  <a href="https://github.com/viniciusshenri96/bankist-site"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=viniciusshenri96&repo=bankist-site&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="bankist-site"></a>
+  <a href="https://github.com/viniciusshenri96/bankist"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viniciusshenri96&repo=bankist&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="bankist"></a>
+  <a href="https://github.com/viniciusshenri96/omnifood"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viniciusshenri96&repo=omnifood&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="omnifood"></a>
+  <a href="https://github.com/viniciusshenri96/skilled"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viniciusshenri96&repo=skilled&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="skilled"></a>
+  <a href="https://github.com/viniciusshenri96/equalizer-landing-page"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viniciusshenri96&repo=equalizer-landing-page&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="equalizer-landing-page"></a>
+  <a href="https://github.com/viniciusshenri96/pig-game"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viniciusshenri96&repo=pig-game&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="pig-game"></a>
+  <a href="https://github.com/viniciusshenri96/typemaster-pre-launch-landing-page"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viniciusshenri96&repo=typemaster-pre-launch-landing-page&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="typemaster-pre-launch-landing-page"></a>
 
-<!-- [![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp; -->
-<!-- [![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only) -->
+## I'm currently working on 
+ I'm working on a project called <strong>Mapty</strong> from Jonas Schmedtmann's JavaScript course
 
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/vinícius-henrique-7a2533229/)
-
-
-<!-- [![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only) -->
-
-### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][cssplaylist]
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<!-- [<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />][cssplaylist] -->
-
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
-
-<!-- [<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />][reactplaylist]
-[<img align="left" alt="Gatsby" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Deno" width="26px" src="./img/deno-light.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only) -->
-
-<br />
-
-### Learning
- <img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
-
-
-<br />
-<br />
-
-<!-- ### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-<!--
-- [The Edge is the Future! What are Edge Functions? Exploring Netlify Edge Functions](https://www.youtube.com/watch?v=mQwWWxYd-SY)
-- [Fastest Upgrade to React 18!! Only 1 Second! 🤯](https://www.youtube.com/watch?v=JLyVyURIWG0)
-- [5 Reasons You Should NOT Create an NFT Collection!!](https://www.youtube.com/watch?v=1ktrrwasouc)
-- [Do You Need To Know Web Dev To Become A Web3 Developer? With Hashlips](https://www.youtube.com/watch?v=oQBRZMo0e34)
-- [BEST Mint From Site &lpar;dapp&rpar; - Entire Process! Whitelist &amp; Launch an NFT Collection &lpar;10,000+&rpar;](https://www.youtube.com/watch?v=cLB7u0KQFIs)
-<!-- YOUTUBE:END -->
-
-<!-- ➡️ [more videos...](https://youtube.com/codestackr) -->
-
-<!-- ### 📕 Latest Blog Posts -->
-
-<!-- BLOG-POST-LIST:START -->
-
-<!-- - [Getting Started with MongoDB &amp; Mongoose](https://dev.to/codestackr/getting-started-with-mongodb-mongoose-2h6a)
-- [How To Pass Application Tracking Systems &lpar;ATS&rpar; &amp; Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions &lpar;RegEx&rpar; Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-<!-- BLOG-POST-LIST:END -->
-
-<!-- ➡️ [more blog posts...](https://codestackr.com) -->
-<!--
-<details>
-  <summary>:zap: Recent GitHub Activity</summary> -->
-
-<!--START_SECTION:activity-->
-<!-- 1. 🗣 Commented on [#156](https://github.com/codeSTACKr/create-10k-nft-collection/issues/156) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
-2. 🎉 Merged PR [#156](https://github.com/codeSTACKr/create-10k-nft-collection/pull/156) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
-3. ❌ Closed PR [#44](https://github.com/codeSTACKr/minter-dapp/pull/44) in [codeSTACKr/minter-dapp](https://github.com/codeSTACKr/minter-dapp)
-4. 🗣 Commented on [#44](https://github.com/codeSTACKr/minter-dapp/issues/44) in [codeSTACKr/minter-dapp](https://github.com/codeSTACKr/minter-dapp)
-5. ❌ Closed PR [#45](https://github.com/codeSTACKr/minter-dapp/pull/45) in [codeSTACKr/minter-dapp](https://github.com/codeSTACKr/minter-dapp) -->
-<!--END_SECTION:activity-->
-
-</details>
+## What about Some Statistics? :bar_chart:
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+<summary>View my activity on GitHub</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=viniciusshenri96&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+![Github stats](https://github-readme-stats.vercel.app/api?username=viniciusshenri96&show_icons=true&locale=en)
+
+![github streak](https://github-readme-streak-stats.herokuapp.com/?user=viniciusshenri96&)
 
 </details>
-
-<!--![Leetcode Stats](https://leetcard.jacoblin.cool/viniciusshenri96)-->
-
-
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
