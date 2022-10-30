@@ -22,7 +22,7 @@ I'm a front end developer in constant evolution, I live in Brazil, Belo Horizont
 
 - 👨‍💻 I practice my skills on the website <a href="frontendmentor.io/challenges">Frontend Mentor</a>
 
-- 🚀 I want to create content to help the community 
+- 🚧 I want to create content to help the community 
 
 ## Technical Skills & Tools
 
@@ -36,7 +36,7 @@ I'm a front end developer in constant evolution, I live in Brazil, Belo Horizont
 ## Currently studying 
 - [Sass](https://sass-lang.com/) - CSS pre-processor. 
 
-## 📘 Some of my projects
+## 🚀 Some of my projects
 
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
