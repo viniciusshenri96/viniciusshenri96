@@ -26,7 +26,7 @@ I'm a front end developer in constant evolution, I live in Brazil, Belo Horizont
 
 ## Technical Skills & Tools
 
-- [HTML](https://developer.mozilla.org/en-US/docs/Web/html) - The building block of the web. No website can survive without this.
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/html) - The building block of the web. 
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/css) - The styling language for the web.
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/javascript) - Programming language for the web browsers. 
 - [Git](https://git-scm.com/) - Track the history of my projects.
