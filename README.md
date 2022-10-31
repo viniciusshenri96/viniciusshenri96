@@ -20,7 +20,7 @@ I'm a front end developer in constant evolution, I live in Brazil, Belo Horizont
 
 - 📖 I enjoy reading articles to stay updated and other people's codes.
 
-- 👨‍💻 I practice my skills on the website <a href="frontendmentor.io/challenges">Frontend Mentor</a>
+- 👨‍💻 I practice my skills on the website <a href="https://www.frontendmentor.io/challenges">Frontend Mentor</a>
 
 - 🚧 I want to create content to help the community 
 
