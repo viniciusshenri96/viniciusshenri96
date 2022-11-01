@@ -21,18 +21,18 @@ I'm a front end developer in constant evolution, I live in Brazil, Belo Horizont
 
 - 📖 I enjoy reading articles to stay updated and other people's codes.
 
-- 👨‍💻 I practice my skills on the website <a href="frontendmentor.io/challenges">Frontend Mentor</a>
+- 👨‍💻 I practice my skills on the website <a href="https://www.frontendmentor.io/challenges">Frontend Mentor</a>
 
 - 🚀 I want to create content to help the community
 
 ## 🛠️ Technical Skills & Tools
 
-- [HTML](https://developer.mozilla.org/en-US/docs/Web/html) - The building block of the web. No website can survive without this.
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/html) - The building block of the web.
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/css) - The styling language for the web.
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/javascript) - Programming language for the web browsers.
 - [Git](https://git-scm.com/) - Track the history of my projects.
 - [Figma](https://www.figma.com/) - Design tool. I use Figma when I am working with a design file. Of course, I am not a designer.
-- [Visual Studio Code](https://code.visualstudio.com/) - Code editor. I love this tool. It has everything that I need to write code.
+- [Visual Studio Code](https://code.visualstudio.com/) - Code editor.
 
 ## 📚 Currently studying
 
