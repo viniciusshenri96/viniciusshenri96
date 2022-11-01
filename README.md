@@ -1,6 +1,6 @@
 # Hello welcome! feel free to read my codes 🤯
 
-![](./img/banner.jpg)
+<!--![](./img/banner.jpg)-->
 
 <div align="left">
 <a href="mailto:viniciush2015@gmail.com" target="_blank" display='inline'>
