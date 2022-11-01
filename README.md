@@ -1,4 +1,5 @@
 # Hello welcome! feel free to read my codes 🤯
+
 ![](./img/banner.jpg)
 
 <div align="left">
@@ -16,27 +17,28 @@
 
 I'm a front end developer in constant evolution, I live in Brazil, Belo Horizonte-MG, my skills at the moment are HTML, CSS and JavaScript, in my projects I like to focus on accessibility, performance and responsiveness.
 
-- ❤️ I love turning layouts into codes 
+- ❤️ I love turning layouts into codes
 
 - 📖 I enjoy reading articles to stay updated and other people's codes.
 
 - 👨‍💻 I practice my skills on the website <a href="frontendmentor.io/challenges">Frontend Mentor</a>
 
-- 🚀 I want to create content to help the community 
+- 🚀 I want to create content to help the community
 
-## Technical Skills & Tools
+## 🛠️ Technical Skills & Tools
 
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/html) - The building block of the web. No website can survive without this.
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/css) - The styling language for the web.
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/javascript) - Programming language for the web browsers. 
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/javascript) - Programming language for the web browsers.
 - [Git](https://git-scm.com/) - Track the history of my projects.
 - [Figma](https://www.figma.com/) - Design tool. I use Figma when I am working with a design file. Of course, I am not a designer.
 - [Visual Studio Code](https://code.visualstudio.com/) - Code editor. I love this tool. It has everything that I need to write code.
 
-## Currently studying 
-- [Sass](https://sass-lang.com/) - CSS pre-processor. 
+## 📚 Currently studying
 
-## 📘 Some of my projects
+- [Sass](https://sass-lang.com/) - CSS pre-processor.
+
+## 🏆 Some of my projects
 
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
@@ -51,8 +53,9 @@ I'm a front end developer in constant evolution, I live in Brazil, Belo Horizont
   <a href="https://github.com/viniciusshenri96/pig-game"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viniciusshenri96&repo=pig-game&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="pig-game"></a>
   <a href="https://github.com/viniciusshenri96/typemaster-pre-launch-landing-page"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viniciusshenri96&repo=typemaster-pre-launch-landing-page&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="typemaster-pre-launch-landing-page"></a>
 
-## I'm currently working on 
- I'm working on a project called <strong>Mapty</strong> from Jonas Schmedtmann's JavaScript course
+## 🚧 I'm currently working on
+
+I'm working on a project called <strong>Mapty</strong> from Jonas Schmedtmann's JavaScript course
 
 ## What about Some Statistics? :bar_chart:
 
