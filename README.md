@@ -29,6 +29,7 @@ I'm a front end developer in constant evolution, I live in Brazil, Belo Horizont
 
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/html) - The building block of the web.
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/css) - The styling language for the web.
+- [Sass](https://sass-lang.com/) - CSS pre-processor.
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/javascript) - Programming language for the web browsers.
 - [Git](https://git-scm.com/) - Track the history of my projects.
 - [Figma](https://www.figma.com/) - Design tool. I use Figma when I am working with a design file. Of course, I am not a designer.
@@ -36,7 +37,7 @@ I'm a front end developer in constant evolution, I live in Brazil, Belo Horizont
 
 ## 📚 Currently studying
 
-- [Sass](https://sass-lang.com/) - CSS pre-processor.
+- Reinforcing my knowledge of Technical Skills
 
 ## 🏆 Some of my projects
 
