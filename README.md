@@ -56,7 +56,8 @@ I'm a front end developer in constant evolution, I live in Brazil, Belo Horizont
 
 ## 🚧 I'm currently working on
 
-I'm working on a project called <strong>Mapty</strong> from Jonas Schmedtmann's JavaScript course
+I'm working on a project called <a href="https://www.frontendmentor.io/challenges/coffeeroasters-subscription-site-5Fc26HVY6" target="_blank" >Coffeeroasters subscription site
+</a>
 
 ## What about Some Statistics? :bar_chart:
 
