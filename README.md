@@ -56,8 +56,7 @@ I'm a front end developer in constant evolution, I live in Brazil, Belo Horizont
 
 ## 🚧 I'm currently working on
 
-I'm working on a project called <a href="https://www.frontendmentor.io/challenges/coffeeroasters-subscription-site-5Fc26HVY6" target="_blank" >Coffeeroasters subscription site and Forkify app
-</a>
+I'm working on a project called <a href="https://www.frontendmentor.io/challenges/intro-section-with-dropdown-navigation-ryaPetHE5" target="_blank" >Intro section with dropdown navigation</a>
 
 ## What about Some Statistics? :bar_chart:
 
