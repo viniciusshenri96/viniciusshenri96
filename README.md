@@ -15,7 +15,7 @@
 
 ## A little about myself 👋
 
-I'm a front end developer in constant evolution, I live in Brazil, Belo Horizonte-MG, my skills at the moment are HTML, CSS and JavaScript, in my projects I like to focus on accessibility, performance and responsiveness.
+I'm a front end developer in constant evolution, I live in Brazil, Belo Horizonte-MG, my skills at the moment are HTML, CSS/SCSS and JavaScript, in my projects I like to focus on accessibility, performance and responsiveness.
 
 - ❤️ I love turning layouts into codes
 
