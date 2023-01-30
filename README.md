@@ -56,7 +56,8 @@ I'm a front end developer in constant evolution, I live in Brazil, Belo Horizont
 
 ## 🚧 I'm currently working on
 
-I'm working on a project called <a href="https://www.frontendmentor.io/challenges/intro-section-with-dropdown-navigation-ryaPetHE5" target="_blank" >Intro section with dropdown navigation</a>
+I'm working on a project called <a href="https://www.frontendmentor.io/challenges/github-user-search-app-Q09YOgaH6" target="_blank" >GitHub user search app
+</a>
 
 ## What about Some Statistics? :bar_chart:
 
