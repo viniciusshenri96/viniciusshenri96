@@ -37,7 +37,7 @@ I'm a front end developer in constant evolution, I live in Brazil, Belo Horizont
 
 ## 📚 Currently studying
 
-- [JavaScript]() and  Data Structures + Algorithms
+- Improving myself even more [JavaScript](), Data Structures + Algorithms, Advanced CSS and Git/GitHub before going to framework.
 
 ## 🏆 Some of my projects
 
