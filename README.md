@@ -1,6 +1,6 @@
 # Hello welcome! feel free to read my codes 🤯
 
-<!--![](./img/banner.jpg)-->
+![](./img/Banner-neon-gym.gif)
 
 <div align="left">
 <a href="mailto:viniciush2015@gmail.com" target="_blank" display='inline'>
@@ -57,6 +57,7 @@ I'm a front end developer in constant evolution, I live in Brazil, Belo Horizont
 ## 🚧 I'm currently working on
 
 I'm working on a project called <a href="https://www.frontendmentor.io/challenges/devjobs-web-app-HuvC_LP4l" target="_blank">Devjobs web app</a>
+
 ## What about Some Statistics? :bar_chart:
 
 <details>
