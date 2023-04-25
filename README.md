@@ -37,7 +37,7 @@ I'm a front end developer in constant evolution, I live in Brazil, Belo Horizont
 
 ## 📚 Currently studying
 
-- React
+- React, practicing JavaScript and studying data structure
 
 <!-- PROJECTS -->
 
