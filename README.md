@@ -39,11 +39,11 @@ I'm a front end developer in constant evolution, I live in Brazil, Belo Horizont
 
 - React
 
-## 🏆 Some of my projects
+<!-- ## 🏆 Some of my projects -->
 
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
-<p align="left">
+<!-- <p align="left">
   <a href="https://github.com/viniciusshenri96/creative-agency-single-page-site"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viniciusshenri96&repo=creative-agency-single-page-site&theme=react&bg_color=1F2937&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="creative-agency-single-page-site"></a>
   <a href="https://github.com/viniciusshenri96/art-gallery-website"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viniciusshenri96&repo=art-gallery-website&theme=react&bg_color=1F2937&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="art-gallery-website"></a>
   <a href="https://github.com/viniciusshenri96/bankist-site"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=viniciusshenri96&repo=bankist-site&theme=react&bg_color=1F2937&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="bankist-site"></a>
@@ -52,7 +52,7 @@ I'm a front end developer in constant evolution, I live in Brazil, Belo Horizont
   <a href="https://github.com/viniciusshenri96/coffeeroasters-subscription-site"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viniciusshenri96&repo=coffeeroasters-subscription-site&theme=react&bg_color=1F2937&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="coffeeroasters-subscription-site"></a>
   <a href="https://github.com/viniciusshenri96/equalizer-landing-page"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viniciusshenri96&repo=equalizer-landing-page&theme=react&bg_color=1F2937&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="equalizer-landing-page"></a>
   <a href="https://github.com/viniciusshenri96/pig-game"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viniciusshenri96&repo=pig-game&theme=react&bg_color=1F2937&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="pig-game"></a>
-  <a href="https://github.com/viniciusshenri96/typemaster-pre-launch-landing-page"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viniciusshenri96&repo=typemaster-pre-launch-landing-page&theme=react&bg_color=1F2937&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="typemaster-pre-launch-landing-page"></a>
+  <a href="https://github.com/viniciusshenri96/typemaster-pre-launch-landing-page"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viniciusshenri96&repo=typemaster-pre-launch-landing-page&theme=react&bg_color=1F2937&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="typemaster-pre-launch-landing-page"></a> -->
 
 ## 🚧 I'm currently working on
 
