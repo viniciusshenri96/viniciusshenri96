@@ -39,11 +39,108 @@ I'm a front end developer in constant evolution, I live in Brazil, Belo Horizont
 
 - React
 
-<!-- ## 🏆 Some of my projects -->
+<!-- PROJECTS -->
 
-<!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-<!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
-<!-- <p align="left">
+<h2 align="left">Main Projects 🏆</h2>
+<div align="left">
+	<table>
+		<tr>
+			<td width="50%">
+				<h3 align="center">Project Mapty </h3>
+				<div align="center">  
+					<a href='https://vinicius-mapty.netlify.app' target="_blank">
+						<img src="https://github.com/codingphasedotcom/codingphasedotcom/blob/main/assets/project1.jpg?raw=true" alt="project 1" height="100%" />
+					</a>
+					<br>
+					<br>
+					<p>
+						<a href="https://github.com/codingphasedotcom/nextjslanding" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="https://google.com" target="_blank">
+              <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+						</a>
+					</p>
+					<p><strong>HTML, CSS, Javascript</strong></p>
+          <p align="left">
+						This project was developed in Jonas Schmedtmann's JavaScript course, where OOP, Geolocalization API, leaflet js and localStorage were used.
+					</p>
+				</div>
+			</td>
+			<td width="50%">
+				<h3 align="center">Project 2</h3>
+				<div align="center" >  
+					<a href='https://codingphase.com' target="_blank">
+						<img src="https://raw.githubusercontent.com/joesantosgarcia/joesantosgarcia/main/assets/projectthumb.jpg" alt="project 2" height="100%" />
+					</a>
+					<br>
+					<br>
+					<p>
+						<a href="https://codingphase.com" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="https://codingphase.com" target="_blank">
+							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+						</a>	
+					</p>
+					 <p><strong>HTML, CSS, Javascript</strong></p>
+					<p>Description goes here</p>
+				</div>
+        </tr>
+	    <tr>
+            <td width="50%">
+                <h3 align="center">Project 3</h3>
+                <div align="center" >  
+                    <a href='https://codingphase.com' target="_blank">
+                        <img src="https://raw.githubusercontent.com/joesantosgarcia/joesantosgarcia/main/assets/projectthumb.jpg" alt="project 3" height="100%" />
+                    </a>
+                    <br>
+                    <br>
+                    <p>
+                        <a href="https://codingphase.com" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="https://codingphase.com" target="_blank">
+							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+						</a>
+                    </p>
+                    <p><strong>HTML, CSS, Javascript</strong></p>
+		    <p>Description goes here</p>
+                </div>
+            </td>
+            <td width="50%">
+                <h3 align="center">Project 4</h3>
+                <div align="center">  
+                    <a href='https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0' target="_blank">
+                        <img src="https://raw.githubusercontent.com/joesantosgarcia/joesantosgarcia/main/assets/projectthumb.jpg" alt="project 4" height="100%" />
+                    </a>
+                    <br>
+                    <br>
+                    <p>
+                        <a href="https://codingphase.com" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="https://codingphase.com" target="_blank">
+							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+						</a>	
+                    </p>
+                    <p><strong>HTML, CSS, Javascript</strong></p>
+		    <p>Description goes here</p>
+                </div>	
+            </td>
+        </tr>
+	</table>
+</div>
+<br />
+<br />
+<hr>
+
+
+<!-- ## 🏆 Some of my projects
+
+Repo info cards - https://github.com/anuraghazra/github-readme-stats
+Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats
+<p align="left">
   <a href="https://github.com/viniciusshenri96/creative-agency-single-page-site"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viniciusshenri96&repo=creative-agency-single-page-site&theme=react&bg_color=1F2937&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="creative-agency-single-page-site"></a>
   <a href="https://github.com/viniciusshenri96/art-gallery-website"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viniciusshenri96&repo=art-gallery-website&theme=react&bg_color=1F2937&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="art-gallery-website"></a>
   <a href="https://github.com/viniciusshenri96/bankist-site"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=viniciusshenri96&repo=bankist-site&theme=react&bg_color=1F2937&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="bankist-site"></a>
