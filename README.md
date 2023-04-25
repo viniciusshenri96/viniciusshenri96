@@ -46,10 +46,10 @@ I'm a front end developer in constant evolution, I live in Brazil, Belo Horizont
 	<table>
 		<tr>
 			<td width="50%">
-				<h3 align="center">Project Mapty </h3>
+				<h3 align="center">Project Mapty</h3>
 				<div align="center">  
 					<a href='https://vinicius-mapty.netlify.app' target="_blank">
-						<img src="./img/mapty.jpg" alt="project mapty" height="100%" />
+						<img src="./img/mapty.jpg" alt="project mapty" height="100%" width='100%' />
 					</a>
 					<br>
 					<br>
@@ -62,9 +62,9 @@ I'm a front end developer in constant evolution, I live in Brazil, Belo Horizont
 						</a>
 					</p>
 					<p><strong>HTML, CSS, Javascript</strong></p>
-          <p align="left">
+          <!-- <p align="left">
 						This project was developed in Jonas Schmedtmann's JavaScript course, where OOP, Geolocalization API, leaflet js and localStorage were used.
-					</p>
+					</p> -->
 				</div>
 			</td>
 			<td width="50%">
@@ -84,7 +84,7 @@ I'm a front end developer in constant evolution, I live in Brazil, Belo Horizont
 						</a>	
 					</p>
 					 <p><strong>HTML, CSS, Javascript</strong></p>
-					<p align="left">This is a challenge from the Mentor frontend site, where I put JavaScript, Parcel, Class, DOM and logic into practice</p>
+					<!-- <p align="left">This is a challenge from the Mentor frontend site, where I put JavaScript, Parcel, Class, DOM and logic into practice</p> -->
 				</div>
         </tr>
 	    <tr>
@@ -105,7 +105,7 @@ I'm a front end developer in constant evolution, I live in Brazil, Belo Horizont
 						</a>
                     </p>
                     <p><strong>HTML, CSS, Javascript</strong></p>
-		    <p align='left'>My solution to the Creative agency single-page site challenge from the Mentor frontend site with HTML, CSS and JS</p>
+		    <!-- <p align='left'>My solution to the Creative agency single-page site challenge from the Mentor frontend site with HTML, CSS and JS</p> -->
                 </div>
             </td>
             <td width="50%">
@@ -125,14 +125,13 @@ I'm a front end developer in constant evolution, I live in Brazil, Belo Horizont
 						</a>	
                     </p>
                     <p><strong>HTML, CSS, Javascript</strong></p>
-		    <p align='left'>In this project I was able to put into practice the MVC architecture</p>
+		    <!-- <p align='left'>In this project I was able to put into practice the MVC architecture</p> -->
                 </div>	
             </td>
         </tr>
 	</table>
 </div>
-<br />
-<br />
+
 <hr>
 
 <!-- ## 🏆 Some of my projects
