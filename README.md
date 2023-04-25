@@ -41,7 +41,7 @@ I'm a front end developer in constant evolution, I live in Brazil, Belo Horizont
 
 <!-- PROJECTS -->
 
-<h2 align="left">Main Projects 🏆</h2>
+<h2 align="left">Some of my projects 🏆</h2>
 <div align="left">
 	<table>
 		<tr>
@@ -49,15 +49,15 @@ I'm a front end developer in constant evolution, I live in Brazil, Belo Horizont
 				<h3 align="center">Project Mapty </h3>
 				<div align="center">  
 					<a href='https://vinicius-mapty.netlify.app' target="_blank">
-						<img src="https://github.com/codingphasedotcom/codingphasedotcom/blob/main/assets/project1.jpg?raw=true" alt="project 1" height="100%" />
+						<img src="./img/mapty.jpg" alt="project mapty" height="100%" />
 					</a>
 					<br>
 					<br>
 					<p>
-						<a href="https://github.com/codingphasedotcom/nextjslanding" target="_blank">
+						<a href="https://github.com/viniciusshenri96/project-mapty" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://google.com" target="_blank">
+						<a href="https://vinicius-mapty.netlify.app" target="_blank">
               <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>
 					</p>
@@ -68,64 +68,64 @@ I'm a front end developer in constant evolution, I live in Brazil, Belo Horizont
 				</div>
 			</td>
 			<td width="50%">
-				<h3 align="center">Project 2</h3>
+				<h3 align="center">Coffeeroasters subscription site</h3>
 				<div align="center" >  
-					<a href='https://codingphase.com' target="_blank">
-						<img src="https://raw.githubusercontent.com/joesantosgarcia/joesantosgarcia/main/assets/projectthumb.jpg" alt="project 2" height="100%" />
+					<a href='https://coffeeroasters-subscription-vinicius.netlify.app' target="_blank">
+						<img src="./img/coffe.png" alt="project 2" height="100%" />
 					</a>
 					<br>
 					<br>
 					<p>
-						<a href="https://codingphase.com" target="_blank">
+						<a href="https://github.com/viniciusshenri96/coffeeroasters-subscription-site" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://codingphase.com" target="_blank">
+						<a href="https://coffeeroasters-subscription-vinicius.netlify.app" target="_blank">
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>	
 					</p>
 					 <p><strong>HTML, CSS, Javascript</strong></p>
-					<p>Description goes here</p>
+					<p align="left">This is a challenge from the Mentor frontend site, where I put JavaScript, Parcel, Class, DOM and logic into practice</p>
 				</div>
         </tr>
 	    <tr>
             <td width="50%">
-                <h3 align="center">Project 3</h3>
+                <h3 align="center">Creative agency</h3>
                 <div align="center" >  
-                    <a href='https://codingphase.com' target="_blank">
-                        <img src="https://raw.githubusercontent.com/joesantosgarcia/joesantosgarcia/main/assets/projectthumb.jpg" alt="project 3" height="100%" />
+                    <a href='https://vinicius-creative-agency.netlify.app' target="_blank">
+                        <img src="./img/creative-agency.jpg" alt="project 3" height="100%" />
                     </a>
                     <br>
                     <br>
                     <p>
-                        <a href="https://codingphase.com" target="_blank">
+                        <a href="https://github.com/viniciusshenri96/creative-agency-single-page-site" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://codingphase.com" target="_blank">
+						<a href="https://vinicius-creative-agency.netlify.app" target="_blank">
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>
                     </p>
                     <p><strong>HTML, CSS, Javascript</strong></p>
-		    <p>Description goes here</p>
+		    <p align='left'>My solution to the Creative agency single-page site challenge from the Mentor frontend site with HTML, CSS and JS</p>
                 </div>
             </td>
             <td width="50%">
-                <h3 align="center">Project 4</h3>
+                <h3 align="center">Github user search app</h3>
                 <div align="center">  
-                    <a href='https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0' target="_blank">
-                        <img src="https://raw.githubusercontent.com/joesantosgarcia/joesantosgarcia/main/assets/projectthumb.jpg" alt="project 4" height="100%" />
+                    <a href='https://vinicius-github-user-search.netlify.app' target="_blank">
+                        <img src="./img/git.jpg" alt="project 4" height="100%" />
                     </a>
                     <br>
                     <br>
                     <p>
-                        <a href="https://codingphase.com" target="_blank">
+                        <a href="https://github.com/viniciusshenri96/github-user-search-app" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://codingphase.com" target="_blank">
+						<a href="https://vinicius-github-user-search.netlify.app" target="_blank">
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>	
                     </p>
                     <p><strong>HTML, CSS, Javascript</strong></p>
-		    <p>Description goes here</p>
+		    <p align='left'>In this project I was able to put into practice the MVC architecture</p>
                 </div>	
             </td>
         </tr>
@@ -134,7 +134,6 @@ I'm a front end developer in constant evolution, I live in Brazil, Belo Horizont
 <br />
 <br />
 <hr>
-
 
 <!-- ## 🏆 Some of my projects
 
