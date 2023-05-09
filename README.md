@@ -148,10 +148,10 @@ Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats
   <a href="https://github.com/viniciusshenri96/equalizer-landing-page"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viniciusshenri96&repo=equalizer-landing-page&theme=react&bg_color=1F2937&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="equalizer-landing-page"></a>
   <a href="https://github.com/viniciusshenri96/pig-game"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viniciusshenri96&repo=pig-game&theme=react&bg_color=1F2937&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="pig-game"></a>
   <a href="https://github.com/viniciusshenri96/typemaster-pre-launch-landing-page"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=viniciusshenri96&repo=typemaster-pre-launch-landing-page&theme=react&bg_color=1F2937&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="typemaster-pre-launch-landing-page"></a> -->
-
+<!-- 
 ## 🚧 I'm currently working on
 
-I'm working on a project called <a href="https://www.frontendmentor.io/challenges/devjobs-web-app-HuvC_LP4l" target="_blank">Devjobs web app</a>
+I'm working on a project called <a href="https://www.frontendmentor.io/challenges/devjobs-web-app-HuvC_LP4l" target="_blank">Devjobs web app</a> -->
 
 ## What about Some Statistics? :bar_chart:
 
