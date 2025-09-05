@@ -1,4 +1,4 @@
-# ![CarregandoLoadingGIF](https://github.com/user-attachments/assets/6cacfaa3-f171-4013-aac0-35433fcd69eb)
+
  Vinícius Henrique
 **`Desenvolvedor FrontEnd`**
 
