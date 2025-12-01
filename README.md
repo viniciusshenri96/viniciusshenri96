@@ -6,7 +6,7 @@ I’m constantly learning and building new things to improve my skills.
 
 My current stack includes Programming Logic, HTML, CSS, and JavaScript.
 
-You’ll find some of my study projects pinned here on GitHub — and many more are on the way!
+You’ll find some of my study projects pinned here on GitHub, and many more are on the way!
 
 #### Fun Facts:
 
